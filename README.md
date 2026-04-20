@@ -19,12 +19,13 @@ low-level control, realtime, hardware integration
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,ros&theme=light" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/LinuxCNC-black?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/HAL-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/FreeRTOS-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/G-code-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Klipper-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mainsail-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/LinuxCNC-DCDCDC?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/HAL-DCDCDC?style=flat-square" />
+  <img src="https://img.shields.io/badge/FreeRTOS-DCDCDC?style=flat-square" />
+  <img src="https://img.shields.io/badge/G-code-DCDCDC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Klipper-DCDCDC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mainsail-DCDCDC?style=flat-square" />
+  
 </p>
 
 
