@@ -33,7 +33,7 @@ low-level control, realtime, hardware integration
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Mitlyy&show_icons=false&theme=default&hide_border=true&hide_title=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitlyy&layout=compact&theme=default&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitlyy&layout=compact&theme=default&hide_border=true" height="140"/>
   
   <img src="https://streak-stats.demolab.com?user=Mitlyy&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000" height="140"/>
 </p>
